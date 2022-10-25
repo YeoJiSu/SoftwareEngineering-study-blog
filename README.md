@@ -21,8 +21,10 @@
 ### 🎨 context model 구상도
 - <img src="2/구상도.jpg" >
 <br><br>
+
 # 📁 3 
-## ☞ Use case diagram
+## ☞ Use case diagram 
+### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 - 한국철도공사 코레일톡 앱에 대해 Use case model를 작성한다.
 - Enterprise Architect를 이용하여 아래 내용이 포함된 EA 파일 (.eap or .eapx)을 만든다.
