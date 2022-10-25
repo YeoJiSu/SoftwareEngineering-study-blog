@@ -1,5 +1,6 @@
 # Software-engineering-study-blog
 > ### 부산대학교 3학년 2학기 채흥석 교수님의 『소프트웨어공학』 강의의 실습 내용을 정리한 저장소입니다.
+# [소프트웨어공학 Velog](https://velog.io/@diduya/series/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
 # 📁 1 
 ## ☞ Recent accidents by software
 ### 📌 설명
