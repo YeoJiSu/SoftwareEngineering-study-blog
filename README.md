@@ -1,5 +1,6 @@
 # Software-engineering-study-blog
 > ### 부산대학교 3학년 2학기 채흥석 교수님의 『소프트웨어공학』 강의의 실습 내용을 정리한 저장소입니다.
+# [소프트웨어공학 Velog](https://velog.io/@diduya/series/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
 # 📁 1 
 ## ☞ Recent accidents by software
 ### 📌 설명
@@ -21,8 +22,10 @@
 ### 🎨 context model 구상도
 - <img src="2/구상도.jpg" >
 <br><br>
+
 # 📁 3 
-## ☞ Use case diagram
+## ☞ Use case diagram 
+### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 - 한국철도공사 코레일톡 앱에 대해 Use case model를 작성한다.
 - Enterprise Architect를 이용하여 아래 내용이 포함된 EA 파일 (.eap or .eapx)을 만든다.
@@ -34,19 +37,25 @@
 <br><br>
 # 📁 4 
 ## ☞ Class diagram
+### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 - -문서에 기술된 원격 냉난방관리 시스템에 대한 problem statements를 바탕으로 UML class diagram을 만든다.
 
 ### 🎨 UML class diagram 구상도
 - <img src="4/구상도.jpg" >
 
-
 <br><br>
 
 # 📁 5
-## ☞ Sequence Diagram
+## ☞ Use Case Scenario, Class diagram, Sequence diagram
+### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
-- 기차표 예약의 예약 등 Use Case 1개에 대해 Use Case 시나리오, Class Diagram, Sequence Diagram을 작성한다.
+-  한국철도공사 코레일톡 앱에 대해 Use case model을 작성한 것을 바탕으로 한가지 Use Case 에 대한 시나리오를 작성했다.
+-  "할인/정기권 예매"에 대한 시나리오를 작성하고, 그에 대한 class diagram, sequence diagram을 만들었다.
 
+### 시나리오
 
-<br><br>
+### 🎨 UML class diagram 구상도
+
+### 🎨 UML sequence diagram 구상도
+
