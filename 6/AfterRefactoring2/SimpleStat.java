@@ -5,17 +5,20 @@ import java.util.Scanner;
 public class SimpleStat {
 	public static void main(String[] args) {
 		
-		System.out.println("Enter integer ( 0 or minus for Exit)");
+		printPrompt("Enter integer ( 0 or minus for Exit)");
+
 		List<Integer> positiveNumbers = getPositiveNumbers();
 
-        // 합 구하기
 		final long sum = getSum(positiveNumbers);
         printValue("Sum: ", sum);
 
-        // 곱 구하기
         final long product = getProduct(positiveNumbers);
 		printValue("Product: ", product);
 	}
+
+    private static void printPrompt(String prompt) {
+        System.out.println(prompt);
+    }
 
     private static List<Integer> getPositiveNumbers() {
         List<Integer> ns = new ArrayList<>();
