@@ -6,21 +6,15 @@ public class SimpleStat {
 	public static void main(String[] args) {
 		
 		System.out.println("Enter integer ( 0 or minus for Exit)");
-		List<Integer> ns = getPositiveNumbers();
+		List<Integer> positiveNumbers = getPositiveNumbers();
 
         // 합 구하기
-		long s = 0;
-		for (int i : ns) {
-			s += i;
-		}
-        System.out.println("Sum: " + s);
+		final long sum = getSum(positiveNumbers);
+        printValue("Sum: ", sum);
 
         // 곱 구하기
-        long p = 1;
-        for (int i : ns) {
-			p *= i;
-		}
-		System.out.println("Product: " + p);
+        final long product = getProduct(positiveNumbers);
+		printValue("Product: ", product);
 	}
 
     private static List<Integer> getPositiveNumbers() {
@@ -34,4 +28,25 @@ public class SimpleStat {
 		}
 		s1.close();
     }
+
+    private static long getSum(List<Integer> ns){
+        long s = 0;
+		for (int i : ns) {
+			s += i;
+		}
+        return s;
+    }
+
+    private static long getProduct(List<Integer> ns){
+        long p = 1;
+        for (int i : ns) {
+			p *= i;
+		}
+        return p;
+    }
+
+    private static void printValue(String string, final long value) {
+        System.out.println(string + value);
+    }
+
 }
