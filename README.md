@@ -70,3 +70,12 @@
 ### 📌 설명
 - BeforeRefactoring 폴더 내의 SimpleStat 자바 파일을 AfterRefactoring 폴더 내에서 리팩토링을 수행한다.
 - 덧셈, 곱셈하는 간단한 계산기로 보고 총 네 개의 class를 나누었고, 기능 별로 class 내 function으로 분류했다. 
+
+# 📁 7
+### ☞ Template Method Pattern을 적용하여 Code Refactoring하기
+### 사용 툴 : [IntelliJ IDEA for mac](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+
+### 📌 설명
+- BeforeRefactoring 폴더 내의 Application 자바 파일을 AfterRefactoring 폴더 내에서 리팩토링을 수행한다.
+- 
+
