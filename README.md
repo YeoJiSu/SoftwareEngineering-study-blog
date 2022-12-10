@@ -79,3 +79,13 @@
 - BeforeRefactoring 폴더 내의 Application 자바 파일을 AfterRefactoring 폴더 내에서 리팩토링을 수행한다.
 - 
 
+
+# 📁 8 Black Box Test
+### ☞ 기능 명세를 바탕으로 Equivalence partitioning과 Pair-wise 테스팅을 수행한다.
+### 사용 툴 : [Microsoft Installer 3.3]()
+
+### 📌 설명
+- black box 방법은 프로그램의 기능에 대한 명세를 바탕으로 테스트 케이스를 결정하는 방법이다.
+- 아래와 같이 프로그램에 대한 기능이 정의될 때 black box 기법을 이용하여 테스트 케이스를 결정하도록 한다.
+- 
+# 📁 9 White Box Test
