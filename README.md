@@ -3,7 +3,7 @@
 ## 블로그: [소프트웨어공학 Velog](https://velog.io/@diduya/series/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
 
 
-## 📁 1. Recent accidents by software
+## [📁 1.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/1) Recent accidents by software
 ### 📌 설명
 - 논문.pdf 는 소프트웨어에 의해서 발생한 최근의 사고를 요약하고 있다. 
 - 이 논문을 참고해서 2개의 사고를 선정하여 각 사고에 대해서 
@@ -16,7 +16,7 @@
 
 <br><br>
 
-## 📁 2. Requirement Document
+## [📁 2.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/2) Requirement Document
 ### 📌 설명
 - 한국철도공사 코레일톡 앱에 대해 Requirement Document를 작성한다.
 
@@ -25,7 +25,7 @@
    
 <br><br>
 
-## 📁 3. Use case diagram 
+## [📁 3.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/3) Use case diagram 
 ### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 - 한국철도공사 코레일톡 앱에 대해 Use case model를 작성한다.
@@ -37,7 +37,7 @@
 
 <br><br>
 
-# 📁 4. Class diagram
+# [📁 4.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/4) Class diagram
 ### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 - 문서에 기술된 원격 냉난방관리 시스템에 대한 problem statements를 바탕으로 UML class diagram을 만든다.
@@ -47,7 +47,7 @@
 
 <br><br>
 
-# 📁 5. Use Case Scenario, Class diagram, Sequence diagram
+# [📁 5.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/5) Use Case Scenario, Class diagram, Sequence diagram
 ### 모델링 및 디자인 도구 : [Enterprise Architect](https://sparxsystems.com/)
 ### 📌 설명
 -  한국철도공사 코레일톡 앱에 대해 Use case model을 작성한 것을 바탕으로 한가지 Use Case 에 대한 시나리오를 작성했다.
@@ -61,7 +61,7 @@
 
 <br><br>
 
-# 📁 6. Code Refactoring
+# [📁 6.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/6) Code Refactoring
 ### 사용 툴 : [IntelliJ IDEA for mac](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 
 ### 📌 설명
@@ -70,7 +70,7 @@
 
 <br><br>
 
-# 📁 7. Template Method Pattern을 적용하여 Code Refactoring하기
+# [📁 7.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/7) Template Method Pattern을 적용하여 Code Refactoring하기
 ### 사용 툴 : [IntelliJ IDEA for mac](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 
 ### 📌 설명
@@ -81,7 +81,7 @@
    <img width = "500" src="https://github.com/YeoJiSu/SoftwareEngineering-study-blog/blob/main/7/AfterRefactoring/classDiagram.png"/>
 <br><br>
 
-# 📁 8. Black Box Test
+# [📁 8.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/8) Black Box Test
 ### ☞ 기능 명세를 바탕으로 Equivalence partitioning과 Pair-wise 테스팅을 수행한다.
 ### 사용 툴 : [Microsoft Installer 3.3](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/blob/main/8/pict33.msi)
 
@@ -102,4 +102,4 @@
 <br><br>
 
 
-# 📁 9. White Box Test
+# [📁 9.](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/tree/main/9) White Box Test
