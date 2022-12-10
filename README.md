@@ -76,6 +76,9 @@
 ### 📌 설명
 - BeforeRefactoring 폴더 내의 Application 자바 파일을 AfterRefactoring 폴더 내에서 리팩토링을 수행한다.
 
+### 🎨 UML class diagram
+- 개선된 소스 코드를 대상으로 클래스 다이어그램을 작성했다.<br>
+   <img width = "500" src="https://github.com/YeoJiSu/SoftwareEngineering-study-blog/blob/main/7/AfterRefactoring/classDiagram.png"/>
 <br><br>
 
 # 📁 8. Black Box Test
