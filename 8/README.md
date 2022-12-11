@@ -19,6 +19,8 @@
 
    Pairwise 테스팅 기법을 지원하는 도구로서 PICT를 활용한다.
 
+   Window 에서 [pict33.msi](https://github.com/YeoJiSu/SoftwareEngineering-study-blog/blob/main/8/pict33.msi)을 실행하면, pict 설치 화면이 뜬다. 
+   
    PICT를 설치하면 도움말파일(PICTHelp.htm)이 PICT 설치 디렉토리 (C:\Program Files\PICT)에 설치되므로 이 도움말 파일을 참조한다.
 
    <img width="500" src = "https://user-images.githubusercontent.com/76769044/206911686-4d1bbb25-ab66-4873-bae5-8387bec1a002.PNG"/>
